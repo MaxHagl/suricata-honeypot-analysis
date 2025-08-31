@@ -47,6 +47,12 @@ NYBULA and Vultr dominate incoming traffic
 Majority of connections terminate in <1s, consistent with scanning  
 ![Duration Histogram](duration_hist.png)
 
+
+### Alert Severity Distribution in kibana
+![Alert Severity](alert_severity_distribution.png)
+
+### Alert Category Distribution in kibana
+![Alert Categories](alert_category_distribution.png)
 ---
 
 ## Recommendations
