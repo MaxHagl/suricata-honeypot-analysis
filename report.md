@@ -92,4 +92,8 @@ Majority of connections terminate in <1s, consistent with scanning
 
 ├── duration_hist.png
 
+├── alert_severity_distribution.png
+
+├── alert_category_distribution.png
+
 └── report.md # This full report
