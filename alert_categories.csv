@@ -1,0 +1,7 @@
+alert.category,events
+Generic Protocol Command Decode,6424
+Misc activity,261
+Detection of a Network Scan,166
+Not Suspicious Traffic,47
+Potentially Bad Traffic,11
+Attempted Administrator Privilege Gain,2
